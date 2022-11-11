@@ -1,2 +1,2 @@
-# israelestudos-primeiro-reposit-rio
-aprender
+# israelestudos-primeiro-repositório
+estudando
